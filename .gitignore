@@ -1,0 +1,11 @@
+# Keep bundled runtime and support binaries in the release ZIP, not Git history.
+lib/
+natives/
+runtime/
+build/
+data/
+skins/
+jarmods/
+*.jar
+*.zip
+*.class
